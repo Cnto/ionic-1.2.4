@@ -2,7 +2,7 @@
 var packageName = 'driftyco:ionic'; // https://atmospherejs.com/driftyco/ionic
 var where = 'client'; // where to install: 'client' or 'server'. For both, pass nothing.
 var version = '1.2.4';
-var test0 = 11;
+var test0 = 1;
 
 Package.describe({
   name: packageName,
