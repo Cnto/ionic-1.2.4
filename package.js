@@ -4,6 +4,7 @@ var where = 'client'; // where to install: 'client' or 'server'. For both, pass 
 var version = '1.2.4';
 var test3= 3;
 var test0 = 0;
+var test5 = 5;
 
 Package.describe({
   name: packageName,
